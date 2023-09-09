@@ -73,7 +73,7 @@ export default function NewChallenge({ onDone }) {
                 },
                 visible: {
                   opacity: 1,
-                  scale: 1,
+                  scale: [0.9, 1.1, 1],
                 },
               }}
               exit={{
