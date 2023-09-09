@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { AnimatePresence, motion, spring } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 
 import NewChallenge from "./NewChallenge.jsx";
 
